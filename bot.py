@@ -2,7 +2,7 @@
 import redis
 import os
 import telebot
-# import some_api_lib
+import psycopg2
 # import ...
 
 # Example of your code beginning
